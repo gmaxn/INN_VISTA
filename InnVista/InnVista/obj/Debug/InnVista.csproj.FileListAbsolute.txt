@@ -1,0 +1,10 @@
+C:\Users\maxin\Desktop\InnVista\InnVista\bin\Debug\InnVista.exe.config
+C:\Users\maxin\Desktop\InnVista\InnVista\obj\Debug\InnVista.FormularioPrincipal.resources
+C:\Users\maxin\Desktop\InnVista\InnVista\obj\Debug\InnVista.Properties.Resources.resources
+C:\Users\maxin\Desktop\InnVista\InnVista\obj\Debug\InnVista.csproj.GenerateResource.Cache
+C:\Users\maxin\Desktop\InnVista\InnVista\bin\Debug\InnVista.exe
+C:\Users\maxin\Desktop\InnVista\InnVista\bin\Debug\InnVista.pdb
+C:\Users\maxin\Desktop\InnVista\InnVista\obj\Debug\InnVista.exe
+C:\Users\maxin\Desktop\InnVista\InnVista\obj\Debug\InnVista.pdb
+C:\Users\maxin\Desktop\InnVista\InnVista\obj\Debug\InnVista.Grilla.resources
+C:\Users\maxin\Desktop\InnVista\InnVista\obj\Debug\InnVista.csprojResolveAssemblyReference.cache
