@@ -8,3 +8,6 @@ C:\Users\maxin\Desktop\InnVista\InnVista\obj\Debug\InnVista.exe
 C:\Users\maxin\Desktop\InnVista\InnVista\obj\Debug\InnVista.pdb
 C:\Users\maxin\Desktop\InnVista\InnVista\obj\Debug\InnVista.Grilla.resources
 C:\Users\maxin\Desktop\InnVista\InnVista\obj\Debug\InnVista.csprojResolveAssemblyReference.cache
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVista\bin\Debug\InnVista.exe.config
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVista\obj\Debug\InnVista.exe
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVista\obj\Debug\InnVista.pdb

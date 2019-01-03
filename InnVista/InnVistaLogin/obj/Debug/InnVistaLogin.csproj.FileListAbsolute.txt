@@ -1,0 +1,9 @@
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\bin\Debug\InnVistaLogin.exe.config
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\obj\Debug\InnVistaLogin.csprojResolveAssemblyReference.cache
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\obj\Debug\InnVistaLogin.Properties.Resources.resources
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\obj\Debug\InnVistaLogin.csproj.GenerateResource.Cache
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\bin\Debug\InnVistaLogin.exe
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\bin\Debug\InnVistaLogin.pdb
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\obj\Debug\InnVistaLogin.exe
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\obj\Debug\InnVistaLogin.pdb
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\obj\Debug\InnVistaLogin.Login.resources
