@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.lbl_userName = new System.Windows.Forms.Label();
-            this.tbx_userName = new System.Windows.Forms.TextBox();
+            this.tbx_nombreUsuario = new System.Windows.Forms.TextBox();
             this.tbx_password = new System.Windows.Forms.TextBox();
             this.lbl_password = new System.Windows.Forms.Label();
             this.btn_login = new System.Windows.Forms.Button();
@@ -45,15 +45,15 @@
             this.lbl_userName.TabIndex = 0;
             this.lbl_userName.Text = "Usuario";
             // 
-            // tbx_userName
+            // tbx_nombreUsuario
             // 
-            this.tbx_userName.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbx_userName.ForeColor = System.Drawing.Color.Black;
-            this.tbx_userName.Location = new System.Drawing.Point(20, 37);
-            this.tbx_userName.Name = "tbx_userName";
-            this.tbx_userName.Size = new System.Drawing.Size(200, 22);
-            this.tbx_userName.TabIndex = 1;
-            this.tbx_userName.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tbx_nombreUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbx_nombreUsuario.ForeColor = System.Drawing.Color.Black;
+            this.tbx_nombreUsuario.Location = new System.Drawing.Point(20, 37);
+            this.tbx_nombreUsuario.Name = "tbx_nombreUsuario";
+            this.tbx_nombreUsuario.Size = new System.Drawing.Size(200, 22);
+            this.tbx_nombreUsuario.TabIndex = 1;
+            this.tbx_nombreUsuario.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // tbx_password
             // 
@@ -83,6 +83,7 @@
             this.btn_login.TabIndex = 4;
             this.btn_login.Text = "ingresar";
             this.btn_login.UseVisualStyleBackColor = true;
+            this.btn_login.Click += new System.EventHandler(this.btn_login_Click);
             // 
             // btn_nuevoUsuario
             // 
@@ -103,7 +104,7 @@
             this.Controls.Add(this.btn_login);
             this.Controls.Add(this.tbx_password);
             this.Controls.Add(this.lbl_password);
-            this.Controls.Add(this.tbx_userName);
+            this.Controls.Add(this.tbx_nombreUsuario);
             this.Controls.Add(this.lbl_userName);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
@@ -119,7 +120,7 @@
         #endregion
 
         private System.Windows.Forms.Label lbl_userName;
-        private System.Windows.Forms.TextBox tbx_userName;
+        private System.Windows.Forms.TextBox tbx_nombreUsuario;
         private System.Windows.Forms.TextBox tbx_password;
         private System.Windows.Forms.Label lbl_password;
         private System.Windows.Forms.Button btn_login;

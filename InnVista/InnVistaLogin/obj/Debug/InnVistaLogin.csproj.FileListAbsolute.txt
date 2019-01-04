@@ -7,3 +7,4 @@ C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\bin\Debug\InnVista
 C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\obj\Debug\InnVistaLogin.exe
 C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\obj\Debug\InnVistaLogin.pdb
 C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\obj\Debug\InnVistaLogin.Login.resources
+C:\Users\maxin\Desktop\gmaxn\INN_VISTA\InnVista\InnVistaLogin\obj\Debug\InnVistaLogin.NuevoUsuario.resources
